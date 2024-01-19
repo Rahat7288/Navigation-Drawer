@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Navigation Drawer</string>
+    <string name="text_menu_message">text_menu_message</string>
+    <string name="text_mune_chat">text_mune_chat</string>
+    <string name="text_menu_profile">text_menu_profile</string>
+    <string name="text_menu_communicate">text_menu_communicate</string>
+    <string name="text_menu_send">text_menu_send</string>
+    <string name="text_menu_share">text_menu_share</string>
+    <string name="rahat_akash">Rahat Akash</string>
+    <string name="rahat_mail_com">rahat@mail.com</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+
+
 </resources>
